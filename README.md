@@ -85,4 +85,5 @@ MIT
 
 ## Автор
 
-Ваше имя
+lanthe421
+@artem_smirnov52 (Telegram)
